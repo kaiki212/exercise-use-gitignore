@@ -4,4 +4,4 @@ z*
 # documentos tipo env - Ignore all files ending in ".env"
 *.env
 # directorios - Ignore this directory artifacts
-/artifacts
+/artifacts/
