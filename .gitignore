@@ -1,4 +1,4 @@
-
+node_modules/
 # Documentos z - Ignore all files starting with "z"
 z*
 # documentos tipo env - Ignore all files ending in ".env"
