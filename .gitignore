@@ -1,1 +1,3 @@
 node_modules/
+# Documentos z - Ignore all files starting with "z"
+z*
